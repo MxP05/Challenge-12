@@ -34,9 +34,9 @@ This analysis identifies the creditworthiness of borrowers, by using various tec
 
 * Predict a Logistic Regression Model with Resampled Training Data 
 
-*Plot components graph, and the Mercado sales plot*
-![](https://github.com/MxP05/Challenge-11/blob/main/image/image1.png?raw=true)
-![](https://github.com/MxP05/Challenge-11/blob/main/image/image2.png?raw=true)
+*Logisticregression vs Randomsampler*
+![Logistic regression score](https://github.com/MxP05/Challenge-12/blob/main/Resources/image/logisticregression%20score.png?raw=true)
+![Random resampler score](https://github.com/MxP05/Challenge-12/blob/main/Resources/image/Resampled%20score.png?raw=true)
 ---
 
 ## Contributors
